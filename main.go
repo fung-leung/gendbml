@@ -9,7 +9,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/NatalieACS/gendbml/dbml"
+	"github.com/fung-leung/gendbml/dbml"
+	//"github.com/NatalieACS/gendbml/dbml"
 	//"github.com/syklevin/gendbml/dbml"
 )
 
