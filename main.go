@@ -20,6 +20,7 @@ func die(v ...interface{}) {
 }
 
 func main() {
+  fmt.Println("start my goodest go")
 
 	var dbmlFile string
 	var outDir string
